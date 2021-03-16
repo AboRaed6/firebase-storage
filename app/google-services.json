@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "129140041761",
+    "project_id": "learn-2-3264d",
+    "storage_bucket": "learn-2-3264d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129140041761:android:a282509f6481f12e869b60",
+        "android_client_info": {
+          "package_name": "com.mohamedraed.firebasestorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVP5HFhm6zyzbwhsFl_0TMpkGNrUpaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129140041761:android:fb32b3c3ec03c21e869b60",
+        "android_client_info": {
+          "package_name": "com.mohamedraed.hwfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVP5HFhm6zyzbwhsFl_0TMpkGNrUpaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129140041761:android:c32c7780c10aa018869b60",
+        "android_client_info": {
+          "package_name": "com.mohamedraed.products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVP5HFhm6zyzbwhsFl_0TMpkGNrUpaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129140041761-geqq1l173pmr4ierh850j26fjkb577im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
